@@ -1,0 +1,73 @@
+body{
+    /* cmd k c es para poner comentarios */
+    background-color:rgb(188, 157, 211) ;
+    font-family: "Quicksand", sans-serif;
+}
+
+h3 {
+color: rgb(141, 78, 141);
+font-family: "Lora", serif;
+}
+
+h1 {
+    color: #015958;
+    font-family: "Lora", serif;
+}
+
+h4 {
+    color: #015958;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
+    background-color: darkmagenta;
+    padding: 10px;
+}
+
+/* IMG */
+
+#banner {
+   width: 60%;
+    height: 300%;
+    border-radius: 10px;
+}
+
+#banner {
+    height: 80%;
+    width: 20%;
+    border-color: darkgreen;
+}
+
+.img3 {
+    border-radius: 30px;
+    height: 20%;
+    width: 50%;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hotpink;
+}
+
+a {
+color:darkmagenta;
+text-decoration:line-through;
+}
+
+.container {
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.insta {
+    height: 20%;
+    width: 20%;
+    margin: 50px;
+}
+
+a:hover{
+    background-color: aqua;
+    color: blue;
+}
